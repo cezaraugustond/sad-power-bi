@@ -46,7 +46,7 @@ A análise dos dados no dashboard interativo revelou insights cruciais:
 * **Setores Mais Atingidos (Gráfico de Rosca):** A distribuição do *Prejuízo por Setor Alvo* destaca quais indústrias acumulam maior vulnerabilidade financeira.
 
 ### C. Cenário de Aplicação: Foco no Brasil
-Ao utilizar os filtros interativos do Power BI para selecionar o **Brasil**, a diretoria consegue descentralizar a visão global e tomar decisões localizadas:
+* Ao utilizar os filtros interativos do Power BI para selecionar o **Brasil**, a diretoria consegue descentralizar a visão global e tomar decisões localizadas:
 * É possível identificar se os ataques mais custosos no país seguem a mesma tendência global (ex: predominância de *Ransomware* ou *Phishing*) ou se exigem um plano de mitigação regulatório e tecnológico específico para a operação nacional.
 
 ## 5. Conclusão para o SAD:
