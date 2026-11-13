@@ -45,9 +45,13 @@ A análise dos dados no dashboard interativo revelou insights cruciais:
 * **O Principal Vetor (Gráfico de Colunas):** O cruzamento da *Soma de Prejuízo Financeiro por Tipo de Ataque* evidencia visualmente qual categoria de ataque lidera o ranking de perdas financeiras, orientando onde a engenharia de segurança deve aplicar defesas prioritárias.
 * **Setores Mais Atingidos (Gráfico de Rosca):** A distribuição do *Prejuízo por Setor Alvo* destaca quais indústrias acumulam maior vulnerabilidade financeira.
 
+![Visão Geral do Dashboard](./images/geral.png)
+
 ### C. Cenário de Aplicação: Foco no Brasil
 * Ao utilizar os filtros interativos do Power BI para selecionar o **Brasil**, a diretoria consegue descentralizar a visão global e tomar decisões localizadas:
 * É possível identificar se os ataques mais custosos no país seguem a mesma tendência global (ex: predominância de *Ransomware* ou *Phishing*) ou se exigem um plano de mitigação regulatório e tecnológico específico para a operação nacional.
+
+![Visão Geral do Dashboard](./images/brasil.png)
 
 ## 5. Conclusão
 O painel transforma dados brutos em inteligência acionável, permitindo justificar o direcionamento de orçamento exatamente para os vetores de ataque e setores mais críticos identificados pelas métricas, eliminando a tomada de decisão baseada em "achismos".
