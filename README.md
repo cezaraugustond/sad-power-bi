@@ -33,6 +33,21 @@ O arquivo tratado foi importado para o Power BI Desktop, onde foram desenvolvido
 
 ---
 
-## 💡 4. Resultados Obtidos e Apoio à Tomada de Decisão
+## 4. Resultados Obtidos e Apoio à Tomada de Decisão
 
 A análise dos dados no dashboard interativo revelou insights cruciais:
+
+### A. Visão Geral do Impacto Global (ou Filtrado por País)
+* **Volume e Severidade:** Os cartões de **Total de Incidentes** e **Ataques Críticos** revelam o volume de ameaças enfrentadas, enquanto o **Prejuízo Médio** e a **Soma do Prejuízo Financeiro** dimensionam o custo econômico exato.
+* **Escala Humana:** O cartão de **Soma de Usuários Afetados** dimensiona o impacto operacional e a exposição de pessoas atingidas pelos incidentes.
+
+### B. O Foco da Ameaça (Gráficos Analíticos)
+* **O Principal Vetor (Gráfico de Colunas):** O cruzamento da *Soma de Prejuízo Financeiro por Tipo de Ataque* evidencia visualmente qual categoria de ataque lidera o ranking de perdas financeiras, orientando onde a engenharia de segurança deve aplicar defesas prioritárias.
+* **Setores Mais Atingidos (Gráfico de Rosca):** A distribuição do *Prejuízo por Setor Alvo* destaca quais indústrias acumulam maior vulnerabilidade financeira.
+
+### C. Cenário de Aplicação: Foco no Brasil
+Ao utilizar os filtros interativos do Power BI para selecionar o **Brasil**, a diretoria consegue descentralizar a visão global e tomar decisões localizadas:
+* É possível identificar se os ataques mais custosos no país seguem a mesma tendência global (ex: predominância de *Ransomware* ou *Phishing*) ou se exigem um plano de mitigação regulatório e tecnológico específico para a operação nacional.
+
+## 5. Conclusão para o SAD:
+O painel transforma dados brutos em inteligência acionável, permitindo justificar o direcionamento de orçamento exatamente para os vetores de ataque e setores mais críticos identificados pelas métricas, eliminando a tomada de decisão baseada em "achismos".
