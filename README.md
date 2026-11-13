@@ -14,7 +14,7 @@ O projeto utiliza a base **"Global Cybersecurity Threats (2015-2024)"**, obtida 
 O projeto foi desenvolvido em duas etapas principais, separando a engenharia de dados da visualização interativa:
 
 ### A. Preparação e Tratamento de Dados (Python / Jupyter Notebook)
-No ambiente Jupyter, utilizando as bibliotecas `Pandas` e `Numpy`, o pipeline de dados envolveu:
+No ambiente [Jupyter Notebook](./jupyter_notebook/), utilizando as bibliotecas `Pandas` e `Numpy`, o pipeline de [dados](./dados/) envolveu:
 * **Limpeza Inicial:** Remoção de espaços em branco e padronização das colunas de texto.
 * **Tradução:** Tradução completa dos valores categóricos (tipos de ataque, setores alvo, países e vulnerabilidades) e dos nomes das colunas para o português, facilitando a interpretação.
 * **Engenharia de Atributos (*Feature Engineering*):** Criação de colunas estratégicas para apoiar a tomada de decisão:
@@ -23,7 +23,7 @@ No ambiente Jupyter, utilizando as bibliotecas `Pandas` e `Numpy`, o pipeline de
   * `Eficiência de Resolução`: Comparativo de tempo de resposta em relação à média geral.
 
 ### B. Modelagem e Visualização (Power BI)
-O arquivo tratado foi importado para o Power BI Desktop, onde foram desenvolvidos:
+O arquivo [Dashboard](./dashboard/) tratado foi importado para o Power BI Desktop, onde foram desenvolvidos:
 * **Medidas DAX Avançadas:** Criação de métricas explícitas como Prejuízo Médio, Total de Incidentes e Contagem Dinâmica de Ataques Críticos (`CALCULATE`).
 * **Cartões (KPIs):** Exibição em destaque do Prejuízo Financeiro Total, Total de Usuários Afetados, Incidentes Críticos e Média de Prejuízo.
 * **Gráficos Analíticos:** 
