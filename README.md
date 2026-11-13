@@ -51,7 +51,7 @@ A análise dos dados no dashboard interativo revelou insights cruciais:
 * Ao utilizar os filtros interativos do Power BI para selecionar o **Brasil**, a diretoria consegue descentralizar a visão global e tomar decisões localizadas:
 * É possível identificar se os ataques mais custosos no país seguem a mesma tendência global (ex: predominância de *Ransomware* ou *Phishing*) ou se exigem um plano de mitigação regulatório e tecnológico específico para a operação nacional.
 
-![Visão do Brasil](./imagens/brasil.png)
+![Visão do Brasil](./imagens/Brasil.png)
 
 ## 5. Conclusão
 O painel transforma dados brutos em inteligência acionável, permitindo justificar o direcionamento de orçamento exatamente para os vetores de ataque e setores mais críticos identificados pelas métricas, eliminando a tomada de decisão baseada em "achismos".
